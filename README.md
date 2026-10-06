@@ -6,3 +6,6 @@ Merged without review.
 
 ## Pull Shark
 Second merged PR.
+
+## Pair Extraordinaire
+Co-authored commit.
